@@ -1,0 +1,11 @@
+- 动手学深度学习 [http://zh-v2.d2l.ai](http://zh-v2.d2l.ai/index.html)
+- CUDA+PyTorch 安装（这个最靠谱）[https://www.bilibili.com/video/BV18K411w7Vs](https://www.bilibili.com/video/BV18K411w7Vs)
+- CUDA官网 [https://developer.nvidia.com/cuda-downloads](https://developer.nvidia.com/cuda-downloads)
+- PyTorch官网 [https://pytorch.org/](https://pytorch.org/)
+- 检测显卡的常用Python命令 [https://blog.csdn.net/qq_34243930/article/details/106695877](https://blog.csdn.net/qq_34243930/article/details/106695877)
+- 归档
+   - [https://www.bilibili.com/video/BV1FN411o7Ep](https://www.bilibili.com/video/BV1FN411o7Ep)
+   - [https://zhuanlan.zhihu.com/p/73741240](https://zhuanlan.zhihu.com/p/73741240)
+   - [https://www.jianshu.com/p/dd1bd5144db2](https://www.jianshu.com/p/dd1bd5144db2)
+   - [https://www.jianshu.com/p/d3b9419a0f89](https://www.jianshu.com/p/d3b9419a0f89)
+   - Anaconda+PyTorch环境搭建视频教程 [https://www.bilibili.com/video/BV1hE411t7RN](https://www.bilibili.com/video/BV1hE411t7RN)
