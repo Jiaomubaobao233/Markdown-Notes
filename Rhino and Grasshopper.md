@@ -1,6 +1,18 @@
 ## Rhino and Grasshopper
 - 如何安装Rhino和Grasshopper插件：[https://zhuanlan.zhihu.com/p/396750137](https://zhuanlan.zhihu.com/p/396750137)
 - Rhino Developer Docs：[https://developer.rhino3d.com/](https://developer.rhino3d.com/)
+- 中科大Grasshopper入门手册：http://staff.ustc.edu.cn/~tongwh/CG_2019/slides/Grasshopper_introduction.pdf
+
+## 推荐新手Grasshopper插件
+- Sunglasses
+- Pufferfish
+- LunchBox
+- Peacock
+- Parakeet
+- pOd
+- Weaverbird
+- Blackbird
+ 
 
 ## Rhino Worksession
 创建 Worksession
