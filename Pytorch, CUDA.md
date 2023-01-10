@@ -1,3 +1,4 @@
+## Pytorch, CUDA
 - 动手学深度学习 [http://zh-v2.d2l.ai](http://zh-v2.d2l.ai/index.html)
 - CUDA+PyTorch 安装（这个最靠谱）[https://www.bilibili.com/video/BV18K411w7Vs](https://www.bilibili.com/video/BV18K411w7Vs)
 - CUDA官网 [https://developer.nvidia.com/cuda-downloads](https://developer.nvidia.com/cuda-downloads)
