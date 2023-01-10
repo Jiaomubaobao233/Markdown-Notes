@@ -1,3 +1,4 @@
+## Anaconda, PyCharm
 - Anaconda 下载和安装文本教程 [https://zhuanlan.zhihu.com/p/75717350](https://zhuanlan.zhihu.com/p/75717350)
 - PyCharm Community Edition 下载地址 [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/)
 - Anaconda + PyCharm 上手视频教程 [https://www.bilibili.com/video/BV1K7411c7EL](https://www.bilibili.com/video/BV1K7411c7EL)
